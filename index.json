@@ -1,0 +1,197 @@
+{
+  "version": 2,
+  "title": "Poseidon Plugins",
+  "description": "Official plugin repository shipped with t-digi-posseidon. Hosts the Music player, DigiBox cloud connector and other first-party apps.",
+  "plugins": [
+    {
+      "id": "music",
+      "name": "Music",
+      "version": "1.0.1",
+      "description": "Local audio player and playlist manager.",
+      "author": "Andet Tafa",
+      "tags": [
+        "Music",
+        "Audio",
+        "Player",
+        "Playlist"
+      ],
+      "website": "https://github.com/a-digi/poseidon-plugins",
+      "supported": [
+        "darwin/arm64",
+        "darwin/amd64",
+        "linux/amd64",
+        "windows/amd64"
+      ],
+      "download": [
+        {
+          "os": "darwin/arm64",
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/music/music_1-0-1_darwin-arm64.zip"
+        },
+        {
+          "os": "darwin/amd64",
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/music/music_1-0-1_darwin-amd64.zip"
+        },
+        {
+          "os": "linux/amd64",
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/music/music_1-0-1_linux-amd64.zip"
+        },
+        {
+          "os": "windows/amd64",
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/music/music_1-0-1_windows-amd64.zip"
+        }
+      ]
+    },
+    {
+      "id": "digibox",
+      "name": "DigiBox",
+      "version": "1.0.11",
+      "description": "Connect Dropbox and Google Drive accounts, manage OAuth app credentials, and browse cloud files.",
+      "author": "Andet Tafa",
+      "tags": [
+        "Cloud",
+        "Storage",
+        "Dropbox",
+        "OAuth"
+      ],
+      "website": "https://github.com/a-digi/poseidon-plugins",
+      "supported": [
+        "darwin/arm64",
+        "darwin/amd64",
+        "linux/amd64",
+        "windows/amd64"
+      ],
+      "download": [
+        {
+          "os": "darwin/arm64",
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/digibox/digibox_1-0-11_darwin-arm64.zip"
+        },
+        {
+          "os": "darwin/amd64",
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/digibox/digibox_1-0-11_darwin-amd64.zip"
+        },
+        {
+          "os": "linux/amd64",
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/digibox/digibox_1-0-11_linux-amd64.zip"
+        },
+        {
+          "os": "windows/amd64",
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/digibox/digibox_1-0-11_windows-amd64.zip"
+        }
+      ]
+    },
+    {
+      "id": "snake",
+      "name": "Snake",
+      "version": "1.0.0",
+      "description": "Classic Snake arcade game with a neon retro look. Eat the food, grow longer, don't crash into yourself.",
+      "author": "Auron",
+      "tags": [
+        "Game",
+        "Arcade",
+        "Classic",
+        "Snake",
+        "HTML5 Game"
+      ],
+      "website": "https://github.com/a-digi/poseidon-plugins",
+      "supported": [
+        "darwin/arm64",
+        "darwin/amd64",
+        "linux/amd64",
+        "windows/amd64"
+      ],
+      "download": [
+        {
+          "os": "darwin/arm64",
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/snake/snake_1-0-0.zip"
+        },
+        {
+          "os": "darwin/amd64",
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/snake/snake_1-0-0.zip"
+        },
+        {
+          "os": "linux/amd64",
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/snake/snake_1-0-0.zip"
+        },
+        {
+          "os": "windows/amd64",
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/snake/snake_1-0-0.zip"
+        }
+      ]
+    },
+    {
+      "id": "mbud",
+      "name": "T-Finance",
+      "version": "0.1.3",
+      "description": "Local budgeting — businesses, invoices, recurring, and upcoming.",
+      "author": "Andet Tafa",
+      "tags": [
+        "Budget",
+        "Invoices",
+        "Finance"
+      ],
+      "website": "https://github.com/a-digi/poseidon-plugins",
+      "supported": [
+        "darwin/arm64",
+        "darwin/amd64",
+        "linux/amd64",
+        "windows/amd64"
+      ],
+      "download": [
+        {
+          "os": "darwin/arm64",
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/mbud/mbud_0-1-21_darwin-arm64.zip"
+        },
+        {
+          "os": "darwin/amd64",
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/mbud/mbud_0-1-21_darwin-amd64.zip"
+        },
+        {
+          "os": "linux/amd64",
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/mbud/mbud_0-1-21_linux-amd64.zip"
+        },
+        {
+          "os": "windows/amd64",
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/mbud/mbud_0-1-21_windows-amd64.zip"
+        }
+      ]
+    },
+    {
+      "id": "mhype",
+      "name": "Music Hype",
+      "version": "1.0.18",
+      "description": "Music hype tracker — composer-coordinated crawlers gather trending track data and store it as JSON files.",
+      "author": "Andet Tafa",
+      "tags": [
+        "Music",
+        "Hype",
+        "Charts",
+        "Crawler"
+      ],
+      "website": "https://github.com/a-digi/poseidon-plugins",
+      "supported": [
+        "darwin/arm64",
+        "darwin/amd64",
+        "linux/amd64",
+        "windows/amd64"
+      ],
+      "download": [
+        {
+          "os": "darwin/arm64",
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/mhype/mhype_1-0-18_darwin-arm64.zip"
+        },
+        {
+          "os": "darwin/amd64",
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/mhype/mhype_1-0-18_darwin-amd64.zip"
+        },
+        {
+          "os": "linux/amd64",
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/mhype/mhype_1-0-18_linux-amd64.zip"
+        },
+        {
+          "os": "windows/amd64",
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/mhype/mhype_1-0-18_windows-amd64.zip"
+        }
+      ]
+    }
+  ]
+}
