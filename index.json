@@ -121,7 +121,7 @@
     {
       "id": "mbud",
       "name": "T-Finance",
-      "version": "0.1.3",
+      "version": "0.1.31",
       "description": "Local budgeting — businesses, invoices, recurring, and upcoming.",
       "author": "Andet Tafa",
       "tags": [
@@ -139,19 +139,19 @@
       "download": [
         {
           "os": "darwin/arm64",
-          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/mbud/mbud_0-1-21_darwin-arm64.zip"
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/mbud/mbud_0-1-31_darwin-arm64.zip"
         },
         {
           "os": "darwin/amd64",
-          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/mbud/mbud_0-1-21_darwin-amd64.zip"
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/mbud/mbud_0-1-31_darwin-amd64.zip"
         },
         {
           "os": "linux/amd64",
-          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/mbud/mbud_0-1-21_linux-amd64.zip"
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/mbud/mbud_0-1-31_linux-amd64.zip"
         },
         {
           "os": "windows/amd64",
-          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/mbud/mbud_0-1-21_windows-amd64.zip"
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/mbud/mbud_0-1-31_windows-amd64.zip"
         }
       ]
     },
