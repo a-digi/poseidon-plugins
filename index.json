@@ -192,6 +192,44 @@
           "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/mhype/mhype_1-0-18_windows-amd64.zip"
         }
       ]
+    },
+    {
+      "id": "coco-gg",
+      "name": "Coco GG",
+      "version": "0.1.0",
+      "description": "2D multiplayer LAN games — join from any device by scanning a QR code.",
+      "author": "Andet Tafa",
+      "tags": [
+        "Games",
+        "Multiplayer",
+        "LAN",
+        "QR Code"
+      ],
+      "website": "https://github.com/a-digi/poseidon-plugins",
+      "supported": [
+        "darwin/arm64",
+        "darwin/amd64",
+        "linux/amd64",
+        "windows/amd64"
+      ],
+      "download": [
+        {
+          "os": "darwin/arm64",
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/coco-gg/coco-gg_0-1-0_darwin-arm64.zip"
+        },
+        {
+          "os": "darwin/amd64",
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/coco-gg/coco-gg_0-1-0_darwin-amd64.zip"
+        },
+        {
+          "os": "linux/amd64",
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/coco-gg/coco-gg_0-1-0_linux-amd64.zip"
+        },
+        {
+          "os": "windows/amd64",
+          "path": "https://raw.githubusercontent.com/a-digi/poseidon-plugins/main/apps/coco-gg/coco-gg_0-1-0_windows-amd64.zip"
+        }
+      ]
     }
   ]
 }
